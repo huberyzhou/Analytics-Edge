@@ -1,6 +1,7 @@
 <p align="center">
 
   <img src="http://insight.venturebeat.com/sites/default/files/marketing-analytics.png"/>
+  
 # Analytics-Edge
 Python code for the Analytics Edge class from MIT
 
