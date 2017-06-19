@@ -1,8 +1,10 @@
 <p align="center">
 
   <img src="http://insight.venturebeat.com/sites/default/files/marketing-analytics.png"/>
-  
-# Analytics-Edge
+</p>
+
+<p align="center">
+<b> Analytics-Edge </b>
 Python code for the Analytics Edge class from MIT
 
 
