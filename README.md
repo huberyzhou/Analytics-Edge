@@ -1,4 +1,4 @@
-<p align="center>
+<p align="center">
 
   <img src="http://insight.venturebeat.com/sites/default/files/marketing-analytics.png"/>
 # Analytics-Edge
