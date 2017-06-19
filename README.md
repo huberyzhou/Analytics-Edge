@@ -1,3 +1,6 @@
+<p align="center>
+
+  <img http://insight.venturebeat.com/sites/default/files/marketing-analytics.png/>
 # Analytics-Edge
 Python code for the Analytics Edge class from MIT
 
@@ -6,3 +9,5 @@ In the last decade, the amount of data available to organizations has reached un
 
 
 <a href="https://www.youtube.com/watch?v=1BMSOBCe07k"> Analytics Edge </a>
+
+</p>
