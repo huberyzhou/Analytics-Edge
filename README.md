@@ -14,4 +14,4 @@ The class asks for using R, but it's an odd language and I like Python much bett
 <a href="https://www.youtube.com/watch?v=1BMSOBCe07k"> Analytics Edge </a>
 
 
-(<br><p>This class is both informative and fun. However, I could not keep up with doing all of the assignments because of the annoying differences between the R language and Python. I can't see myself attempting to do this class with R. It's a horrible and ugly language to program with. Thus, this is the end of this repository.</p>
+<br><p style="color: red">This class is both informative and fun. However, I could not keep up with doing all of the assignments because of the annoying differences between the R language and Python. I can't see myself attempting to do this class with R. It's a horrible and ugly language to program with. Thus, this is the end of this repository.</p>
